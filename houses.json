@@ -5,7 +5,8 @@
         "price":"3.500.000",
         "bedrooms":"3",
         "squaremeters":"650",
-        "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/1.jpg"
+        "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/1.jpg",
+        "description":"Questa esclusiva abitazione, situata nel cuore della foresta bavarese, è appartenuta alla famiglia reale fino all'unificazione tedesca. Ha recentemente subito vari interventi di restauro."
     },
     {
         "name":"Santafiora",
@@ -13,7 +14,8 @@
         "price":"4.000.000",
         "bedrooms":"4",
         "squaremeters":"950",
-        "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/3.jpg"
+        "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/3.jpg",
+        "description":""
     },
     {
         "name":"Hypesion",
@@ -21,7 +23,8 @@
         "price":"5.000.000",
         "bedrooms":"5",
         "squaremeters":"1360",
-        "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/4.jpg"
+        "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/4.jpg",
+        "description":""
     },
     {
         "name":"TropLux",
@@ -29,7 +32,8 @@
         "price":"7.500.000",
         "bedrooms":"4",
         "squaremeters":"840",
-        "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/5.jpg"
+        "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/5.jpg",
+        "description":""
     },
     {
         "name":"Kaingstel",
@@ -37,7 +41,8 @@
         "price":"10.000.000",
         "bedrooms":"7",
         "squaremeters":"1750",
-        "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/6.jpg"
+        "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/6.jpg",
+        "description":""
     },
     {
         "name":"Louississipi",
@@ -45,7 +50,8 @@
         "price":"2.500.000",
         "bedrooms":"3",
         "squaremeters":"775",
-        "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/7.jpg"
+        "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/7.jpg",
+        "description":""
     },
     {
         "name":"Brahmaputra",
@@ -53,7 +59,8 @@
         "price":"12.000.000",
         "bedrooms":"6",
         "squaremeters":"890",
-        "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/8.jpg"
+        "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/8.jpg",
+        "description":""
     },
     {
         "name":"καλοκαγαθία",
@@ -61,7 +68,8 @@
         "price":"1.750.000",
         "bedrooms":"1",
         "squaremeters":"305",
-        "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/9.jpg"
+        "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/9.jpg",
+        "description":""
     },
     {
         "name":"Tiki",
@@ -69,7 +77,8 @@
         "price":"4.000.000",
         "bedrooms":"3",
         "squaremeters":"570",
-        "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/10.jpg"
+        "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/10.jpg",
+        "description":""
     },
         {
         "name":"Balans",
@@ -77,7 +86,8 @@
         "price":"6.000.000",
         "bedrooms":"5",
         "squaremeters":"880",
-        "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/11.jpg"
+        "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/11.jpg",
+        "description":""
     },
     {
         "name":"Tokugawa",
@@ -85,7 +95,8 @@
         "price":"4.500.000",
         "bedrooms":"3",
         "squaremeters":"675",
-        "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/12.jpg"
+        "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/12.jpg",
+        "description":""
     },
     {
         "name":"Cognac",
@@ -93,7 +104,8 @@
         "price":"5.000.000",
         "bedrooms":"2",
         "squaremeters":"450",
-        "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/13.jpg"
+        "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/13.jpg",
+        "description":""
     },
     {
         "name":"Hughau",
@@ -101,7 +113,8 @@
         "price":"7.000.000",
         "bedrooms":"4",
         "squaremeters":"1050",
-        "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/14.jpg"
+        "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/14.jpg",
+        "description":""
     },
     {
         "name":"Kango",
@@ -109,7 +122,8 @@
         "price":"2.500.000",
         "bedrooms":"3",
         "squaremeters":"520",
-        "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/15.jpg"
+        "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/15.jpg",
+        "description":""
     },
     {
         "name":"Talim",
@@ -117,7 +131,8 @@
         "price":"6.000.000",
         "bedrooms":"3",
         "squaremeters":"690",
-        "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/16.jpg"
+        "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/16.jpg",
+        "description":""
     },
     {
         "name":"Tayyip",
@@ -125,6 +140,7 @@
         "price":"8.000.000",
         "bedrooms":"5",
         "squaremeters":"1540",
-        "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/17.jpg"
+        "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/17.jpg",
+        "description":""
     }
 ]
