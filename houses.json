@@ -15,7 +15,7 @@
         "bedrooms":"4",
         "squaremeters":"950",
         "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/3.jpg",
-        "description":""
+        "description":"Situata nell'antica contea di Santafiora, pare che in epoca medioevale qui risiedesse stabilmente la nobile famiglia degli Aldobrandeschi, antichi signori di queste terre. La storia di quest'abitazione si riflette nel suo stile, di ispirazione romanico-gotica."
     },
     {
         "name":"Hypesion",
@@ -24,7 +24,7 @@
         "bedrooms":"5",
         "squaremeters":"1360",
         "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/4.jpg",
-        "description":""
+        "description":"In puro stile californiano, questa villa dispone di piscina, palestra e un'armeria con una dotazione degna di una base militare della US Army. Come si può facilmente capire, per tale ragione sono pressochè inutili gli antifurto installati."
     },
     {
         "name":"TropLux",
@@ -33,7 +33,7 @@
         "bedrooms":"4",
         "squaremeters":"840",
         "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/5.jpg",
-        "description":""
+        "description":"Se la vostra villa dei sogni è una classica abitazione moderna situata in un paesaggio paradisiaco come quello delle Seychelles, allora TropLux è la proprietà che fa per voi: con il suo stile moderno e la sua location suggestiva, non rimarrete delusi (ma più probabilmente impoveriti) da un eventuale suo acquisto"
     },
     {
         "name":"Kaingstel",
@@ -42,7 +42,7 @@
         "bedrooms":"7",
         "squaremeters":"1750",
         "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/6.jpg",
-        "description":""
+        "description":"Per gli appassionati di castelli che desiderano un'abitazione più simile ad un castello che ad una villa, Kaingstel è l'opzione perfetta. Con le sue linee goticheggianti e il suo arredamento d'epoca, potrete far credere a chi viene a farvi visita di essere ricchi e nobili anche se in realtà non lo siete."
     },
     {
         "name":"Louississipi",
@@ -51,7 +51,7 @@
         "bedrooms":"3",
         "squaremeters":"775",
         "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/7.jpg",
-        "description":""
+        "description":"Lungo le rive del fiume Mississippi sorge questa lussuosissima villa, costruita sulla base di un vecchio battello che tra  Otto e Novecento solcava il lunghissimo fiume. Accanto all'abitazione è inoltre situato un molo, che consente agli occupanti della villa di impiegare, se la possiedono, una barca per spostarsi lungo il fume."
     },
     {
         "name":"Brahmaputra",
@@ -60,7 +60,7 @@
         "bedrooms":"6",
         "squaremeters":"890",
         "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/8.jpg",
-        "description":""
+        "description":"Tra le pochissime proprietà disponibili nell'Asia Continentale questa è senza ombra di dubbio la più particolare e suggestiva. Ispirata fortemente allo stile indiano di epoca quattro-cinquecentesca, è estremamente ricercata e originale: pochi la ameranno ma troveranno in essa la casa perfetta."
     },
     {
         "name":"καλοκαγαθία",
