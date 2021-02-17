@@ -87,7 +87,7 @@
         "bedrooms":"5",
         "squaremeters":"880",
         "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/11.jpg",
-        "description":"Per i classici milionari che desiderano una classica villa nel Pacifico, Balans è la scelta migliore. Una perla incastonata nelle Fiji, dal design ultramoderno, questa sarà per voi un'abitazione "tipo" solo se siete tra i 100 uomini più ricchi al mondo."
+        "description":"Per i classici milionari che desiderano una classica villa nel Pacifico, Balans è la scelta migliore. Una perla incastonata nelle Fiji, dal design ultramoderno, questa sarà per voi un'abitazione 'tipo' solo se siete tra i 100 uomini più ricchi al mondo."
     },
     {
         "name":"Tokugawa",
