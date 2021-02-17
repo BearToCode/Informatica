@@ -69,7 +69,7 @@
         "bedrooms":"1",
         "squaremeters":"305",
         "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/9.jpg",
-        "description":""
+        "description":"Situata nella suggestiva isola di Psara, in Grecia, questa abitazione rappresenta una perfetta sintesi del classico stile tipico greco: le numerosissime terrazze ed i muri completamente bianchi sono tra le caratteristiche più notevoli di tale stile, da molti apprezzato."
     },
     {
         "name":"Tiki",
@@ -78,7 +78,7 @@
         "bedrooms":"3",
         "squaremeters":"570",
         "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/10.jpg",
-        "description":""
+        "description":"Sei un cittadino americano che sogna una lussuosa villa in un'isola del Pacifico, ma non vuoi rinunciare agli agi del tuo Paese? Allora TIki è l'abitazione per te! Situata nell'isola di Guam, questa villa è perfetta per tutti i cittadini americani che vogliono vedere da più vicino i missili della Cina e della Nord Corea."
     },
         {
         "name":"Balans",
@@ -87,7 +87,7 @@
         "bedrooms":"5",
         "squaremeters":"880",
         "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/11.jpg",
-        "description":""
+        "description":"Per i classici milionari che desiderano una classica villa nel Pacifico, Balans è la scelta migliore. Una perla incastonata nelle Fiji, dal design ultramoderno, questa sarà per voi un'abitazione "tipo" solo se siete tra i 100 uomini più ricchi al mondo."
     },
     {
         "name":"Tokugawa",
@@ -96,7 +96,7 @@
         "bedrooms":"3",
         "squaremeters":"675",
         "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/12.jpg",
-        "description":""
+        "description":"Tra le montagne del Giappone centrale, vicino alla città di Nakatsugawa, sorge la magnifica villa Tokugawa. Appartenuta in passato allo shogun Tokugawa Ieyasu (da cui prende il nome), l'abitazione presenta uno stile costituito da una commistione tra tradizione ed innovazione, presentando degli interni all'apparenza antichi, ma che in realtà celano una dotazione tecnologica estremamente all'avanguardia."
     },
     {
         "name":"Cognac",
@@ -105,7 +105,7 @@
         "bedrooms":"2",
         "squaremeters":"450",
         "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/13.jpg",
-        "description":""
+        "description":"Tra i colli della Francia sud-occidentale, nei pressi della ridente cittadina di Lys, è situata villa Cognac. Costruita secondo i dettami dell'arte tardo-medioevale, sarà certamente apprezzata da tutti coloro che desiderano una tranquilla e suggestiva abitazione in una delle regioni più incontaminate d'Europa."
     },
     {
         "name":"Hughau",
