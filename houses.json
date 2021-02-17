@@ -114,7 +114,7 @@
         "bedrooms":"4",
         "squaremeters":"1050",
         "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/14.jpg",
-        "description":""
+        "description":"Per coloro che sono estremamente sadici e non desiderano altro che flexare la propria ricchezza su persone che vivono con meno di un dollaro al giorno, villa Hughau è l'abitazione perfetta. Situata in un Paese ed in una regione tra le più sottosviluppate del mondo, vi basterà uscire con dei vestiti addosso per essere considerati milionari."
     },
     {
         "name":"Kango",
@@ -123,7 +123,7 @@
         "bedrooms":"3",
         "squaremeters":"520",
         "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/15.jpg",
-        "description":""
+        "description":"Presso Albion, in Australia, sorge villa Kango, unica abitazione di nostro possesso in tutta l'Oceania. Ultramoderna e con un design talmente avanguardistico da non avere nemmeno una porta d'ingresso, sarete spesso costretti a passare notti insonni a causa dell'antifurto che, per vostra fortuna, funziona anche troppo bene."
     },
     {
         "name":"Talim",
@@ -132,7 +132,7 @@
         "bedrooms":"3",
         "squaremeters":"690",
         "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/16.jpg",
-        "description":""
+        "description":"Nei pressi dello Stretto di Malacca, nell'estremo nord dell'Indonesia, sorge villa Talim. Nonostante l'estrema bellezza del luogo e dell'abitazione, i suoi occupanti potrebbero talvolta venire infastiditi dalle quasi 100,000 navi che ogni anno transitano vicino quelle coste."
     },
     {
         "name":"Tayyip",
@@ -141,6 +141,6 @@
         "bedrooms":"5",
         "squaremeters":"1540",
         "img":"https://raw.githubusercontent.com/BearToCode/Informatica/main/images/17.jpg",
-        "description":""
+        "description":"Nell'antica regione della Bitinia, tra le montagne dell'odierna Grecia, è situata villa Tayyip. Ex residenza dell'omonimo attuale presidente turco, non possiamo dare garanzia del fatto che egli non possa, un giorno, tornare ad esercitare la potestà su questa proprietà. Il nostro mestiere, d'altronde, non è quello di mediare con i dittat... ehm politici."
     }
 ]
